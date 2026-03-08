@@ -1,4 +1,4 @@
-**Konu:** Sponsorluk Başvurusu - [Proje veya Topluluk Adı]
+### Konu: Sponsorluk Başvurusu - [Proje veya Topluluk Adı]
 
 **Merhaba [Firma Adınız] Ekibi,**
 Ben [Adınız Soyadınız]. Geliştirmekte olduğumuz **[Proje Adı]** projesi için sunduğunuz kaliteli altyapı hizmetlerinden yararlanmak ve markanızla yan yana yürümek amacıyla sponsorluk desteğinize başvurmak istiyorum.
