@@ -13,3 +13,17 @@ Bu doğrultuda talep ettiğiniz bilgileri aşağıda iletiyorum:
 - **Proje Logosu:** [Logonuzu mail ekine ekleyiniz veya buraya bir bağlantı bırakınız]
 - **Proje Tanımı:** [Projenizin amacını ve ne üzerine olduğunu kısaca anlatınız]
 - **Talep Edilen Hizmet ve Nedeni:** [Neden VDS/VPS istiyorsunuz? İhtiyacınız olan donanım özellikleri nelerdir? Belirtiniz]
+
+## Örnek Mesaj ⬇️
+### Konu: Sponsorluk Başvurusu - Berilis
+Ben Burak Yağmur. Geliştirmekte olduğumuz **Berilis** projesi için sunduğunuz kaliteli altyapı hizmetlerinden yararlanmak ve markanızla yan yana yürümek amacıyla sponsorluk desteğinize başvurmak istiyorum.
+
+Bu doğrultuda talep ettiğiniz bilgileri aşağıda iletiyorum:
+- **Ad Soyad:** Burak Yağmur
+- **Doğum Yılı:** 1979
+- **Telefon Numarası:** +90 500 000 00 00
+- **Ülke / Şehir:** Türkiye/Kocaeli
+- **Proje Adı:** Berilis
+- **Proje Logosu:** BerilisLogo.png
+- **Proje Tanımı:** Hosting firması.
+- **Talep Edilen Hizmet ve Nedeni:** WebSitemizi barındırmak için VDS istiyoruz.
