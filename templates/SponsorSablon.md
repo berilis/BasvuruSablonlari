@@ -21,7 +21,7 @@ Ben Burak Yağmur. Geliştirmekte olduğumuz **Berilis** projesi için sunduğun
 Bu doğrultuda talep ettiğiniz bilgileri aşağıda iletiyorum:
 - **Ad Soyad:** Burak Yağmur
 - **Doğum Yılı:** 1979
-- **Telefon Numarası:** +90 500 000 00 00
+- **Telefon Numarası:** +90 850 307 54 31
 - **Ülke / Şehir:** Türkiye/Kocaeli
 - **Proje Adı:** Berilis
 - **Proje Logosu:** BerilisLogo.png
